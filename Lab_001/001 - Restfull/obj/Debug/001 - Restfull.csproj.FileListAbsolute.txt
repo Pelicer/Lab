@@ -1,0 +1,95 @@
+D:\Lab\001 - Restfull\001 - Restfull\bin\001 - Restfull.dll.config
+D:\Lab\001 - Restfull\001 - Restfull\bin\001 - Restfull.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\001 - Restfull.pdb
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\csc.exe
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\csc.exe.config
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\csc.rsp
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\csi.exe
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\csi.exe.config
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\csi.rsp
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.AppContext.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.Collections.Immutable.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.Console.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.Globalization.Calendars.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.IO.Compression.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.IO.FileSystem.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.Net.Http.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.Net.Sockets.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.Reflection.Metadata.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.ValueTuple.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.Xml.XPath.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\vbc.exe
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\vbc.exe.config
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\vbc.rsp
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\VBCSCompiler.exe
+D:\Lab\001 - Restfull\001 - Restfull\bin\roslyn\VBCSCompiler.exe.config
+D:\Lab\001 - Restfull\001 - Restfull\bin\Antlr3.Runtime.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\Microsoft.Web.Infrastructure.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\Newtonsoft.Json.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\System.Net.Http.Formatting.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\System.Web.Helpers.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\System.Web.Http.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\System.Web.Http.WebHost.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\System.Web.Mvc.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\System.Web.Optimization.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\System.Web.Razor.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\System.Web.WebPages.Deployment.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\System.Web.WebPages.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\System.Web.WebPages.Razor.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\WebGrease.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\Newtonsoft.Json.xml
+D:\Lab\001 - Restfull\001 - Restfull\bin\System.Net.Http.Formatting.xml
+D:\Lab\001 - Restfull\001 - Restfull\bin\System.Web.Helpers.xml
+D:\Lab\001 - Restfull\001 - Restfull\bin\System.Web.Http.xml
+D:\Lab\001 - Restfull\001 - Restfull\bin\System.Web.Http.WebHost.xml
+D:\Lab\001 - Restfull\001 - Restfull\bin\System.Web.Mvc.xml
+D:\Lab\001 - Restfull\001 - Restfull\bin\System.Web.Optimization.xml
+D:\Lab\001 - Restfull\001 - Restfull\bin\System.Web.Razor.xml
+D:\Lab\001 - Restfull\001 - Restfull\bin\System.Web.WebPages.xml
+D:\Lab\001 - Restfull\001 - Restfull\bin\System.Web.WebPages.Deployment.xml
+D:\Lab\001 - Restfull\001 - Restfull\bin\System.Web.WebPages.Razor.xml
+D:\Lab\001 - Restfull\001 - Restfull\bin\Antlr3.Runtime.pdb
+D:\Lab\001 - Restfull\001 - Restfull\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Lab\001 - Restfull\001 - Restfull\bin\pt-br\System.Net.Http.Formatting.resources.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\pt-br\System.Web.Helpers.resources.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\pt-br\System.Web.Http.resources.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\pt-br\System.Web.Http.WebHost.resources.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\pt-br\System.Web.Mvc.resources.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\pt-br\System.Web.Optimization.resources.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\pt-br\System.Web.Razor.resources.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\pt-br\System.Web.WebPages.resources.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+D:\Lab\001 - Restfull\001 - Restfull\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+D:\Lab\001 - Restfull\001 - Restfull\obj\Debug\001 - Restfull.csprojAssemblyReference.cache
+D:\Lab\001 - Restfull\001 - Restfull\obj\Debug\001 - Restfull.csproj.CoreCompileInputs.cache
+D:\Lab\001 - Restfull\001 - Restfull\obj\Debug\001 - Restfull.csproj.CopyComplete
+D:\Lab\001 - Restfull\001 - Restfull\obj\Debug\001 - Restfull.dll
+D:\Lab\001 - Restfull\001 - Restfull\obj\Debug\001 - Restfull.pdb
